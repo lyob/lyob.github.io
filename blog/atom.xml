@@ -10,8 +10,8 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://lyob.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>lyobhub@gmail.com</email>
+		<name>Benjamin Lyo</name>
+		<email>thisisbenlyo@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
