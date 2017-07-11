@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: Welcome to ben's homepage!
+title: Ben's blog
 description: Feel free to bookmark this page for future updates!
+permalink: /blog/:year/:month/:day/:title
