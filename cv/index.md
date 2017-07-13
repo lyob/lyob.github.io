@@ -1,2 +1,2 @@
 # CV
-Nothing to show here; I haven't discovered any groundbreaking laws of physics, cures for diseases or any of the [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems). If I do, I'll let you know.
+Nothing to show here; I haven't discovered any groundbreaking laws of physics, cures for diseases or solved any of the [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems). If I do, I'll let you know.
