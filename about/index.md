@@ -1,3 +1,3 @@
 # About me
 
-I'm ben. hi.
+Hi. I'm Ben. 
